@@ -1,0 +1,2 @@
+https://git.heroku.com/frontend-emt-lab-2.git
+https://backend-emt-lab-2.herokuapp.com/
